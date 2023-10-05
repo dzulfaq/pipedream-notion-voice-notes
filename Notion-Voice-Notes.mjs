@@ -850,7 +850,7 @@ export default {
 			
 			If the speaker in a transcript identifies themselves, use their name in your summary content instead of writing generic terms like "the speaker". If they do not, you can write "the speaker".
 			
-			Analyze the transcript provided, then provide the following:
+			Analyze the transcript provided, skip the inappropriate transcript, then provide the following:
 			
 			Key "title:" - add a title.`;
 
